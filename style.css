@@ -1,0 +1,42 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.content
+{
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+}
+
+
+.content img
+{
+   width: 50px;
+   height: 50px;
+    margin-right: .6rem;
+}
+
+ .rating-wrap
+{
+   font-size: 12px;
+}
+
+ .rating-wrap .checked
+{
+  color: orange;
+}
+
+.float-end .btn-light:hover
+{
+    border-color: gray;
+  color: blue;
+}
+
+.form-control, .form-select
+{
+    background-color: #f9f9f9;
+}
+
